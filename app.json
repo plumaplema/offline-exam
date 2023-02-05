@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.gployogoy_offline_exam"
     },
     "web": {
       "favicon": "./assets/favicon.png"
